@@ -1,0 +1,101 @@
+/* .s {
+  background-image: url("./backk.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  background-position: center;
+} */
+body {
+  text-align: center;
+  color: #6038be;
+}
+h1 {
+  font-size: 5.625rem;
+  font-family: "Sacramento", cursive;
+}
+h2 {
+  /* font-family: "Montserrat", sans-serif; */
+  font-size: 2.5rem;
+
+  font-family: "Lato", sans-serif;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  height: 0px;
+  border-color: #eaf6f6;
+  border-width: 5px;
+  width: 3%;
+  margin: 50px auto;
+}
+ul {
+  margin: 0px;
+  text-align: left;
+  position: relative;
+  left: 200px;
+  line-height: 2;
+}
+.ew {
+  font-family: "Raleway", sans-serif;
+  font-size: 26px;
+  color: #31326f;
+}
+.pic {
+  float: left;
+  width: 550px;
+  height: 500px;
+  /* margin-left: 400px; */
+}
+.skill {
+  position: absolute;
+  float: left;
+}
+.heading {
+  /* margin-left: 500px; */
+  font-size: 40px;
+  font-family: "Castoro", serif;
+  text-align: center;
+}
+.pic1 {
+  margin-top: 300px;
+  width: 10%;
+  position: relative;
+  left: 500px;
+  bottom: 200px;
+}
+.t {
+  margin: 0 0 30px 0;
+}
+.p {
+  /* margin-right: 50px; */
+  margin-left: 100px;
+  font-size: 30px;
+  font-family: "Raleway", sans-serif;
+  color: #060930;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+  font-size: 3rem;
+}
+a {
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #eaf6f6;
+}
+.o {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.pic3{[
+  float: right;
+]}
